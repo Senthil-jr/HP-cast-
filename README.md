@@ -1,3 +1,3 @@
-Harry Potter Characters Webpage using Harrypotter API
+Harry Potter Characters 
 
-Live link :https://astounding-torte-568b83.netlify.app/
+Live link : https://starlit-ganache-1054df.netlify.app/
